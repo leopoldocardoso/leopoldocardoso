@@ -1,4 +1,15 @@
-### Olá Sou Leopoldo Peixoto Cardoso 👋 ###
+### Olá, Sou Leopoldo Peixoto Cardoso 👋 ###
+
+Pós Graduado em Redes de Computadores, Graduado em Sistemas de Informação.
+
+Profissional comprometido que possui forte habilidade de aprender novas tecnologias e que busca por desafios constantemente.
+
+Carreira construída na área de Suporte ao Usuário e Implantação de Sistemas.
+Conhecimento em:
+- Sistemas Operacionais Windows e Linux, com destaque para administração de servidores de arquivos e banco de dados com Sistema Operacional Linux.
+- Cloud Computing, com certificações Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Administrator Associate (AZ-104) e Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900).
+
+Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
 
 
 **- DevOps Jr.**
