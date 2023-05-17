@@ -1,19 +1,19 @@
-### Olá 👋 ###
-Sou Leopoldo Peixoto Cardoso
+### Olá Sou Leopoldo Peixoto Cardoso 👋 ###
 
-   **Olá, sou Leopoldo Peixoto Cardoso**
 
 **- DevOps Jr.**
 
-**- Esutando Kubernetes**
+**- Estudante de Kubernetes**
 
-**- Estudando cultura DevOps**
+**- Estudante da cultura DevOps**
 
 **- Conhecimentos em Ansible, Docker e Kubernetes**
 
 **- Estudando infra estrutura como código (Terraform)** 
 
 **- Linkedin: linkedin.com/in/leopoldopcardoso/**
+
+**- Gitlab: https://gitlab.com/LeopoldoCardoso**
   
   ##
 
