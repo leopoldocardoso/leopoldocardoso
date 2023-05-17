@@ -11,8 +11,8 @@ Conhecimento em:
 
 Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
 
+Atualmente trabalho como DevOps Jr. na PicPay.
 
-**- DevOps Jr.**
 
 **- Estudante de Kubernetes**
 
