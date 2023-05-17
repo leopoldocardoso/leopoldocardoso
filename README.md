@@ -1,9 +1,9 @@
-### Olá 👋
-
+### Olá 👋 ###
+sou Leopoldo Peixoto Cardoso
 <!--
 **leopoldocardoso/leopoldocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-   **Olá, sou Leopoldo Peixoto Cardoso**
+   **Olá, **
 
 **- DevOps Jr.**
 
