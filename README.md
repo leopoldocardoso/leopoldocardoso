@@ -6,7 +6,7 @@ Possuo certificações Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Ad
 
 Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
 
-Abaixo deixo alguns artigos referente sobre Microsoft Azure
+Abaixo deixo alguns artigos sobre Microsoft Azure
 
 ### Artigos ###
    
