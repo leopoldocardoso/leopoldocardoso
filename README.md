@@ -32,8 +32,6 @@ Para mais informações segue linkedin:
 
 **- Linkedin: linkedin.com/in/leopoldopcardoso/**
 
-**- Gitlab: https://gitlab.com/LeopoldoCardoso**
-
 
   
   ##
