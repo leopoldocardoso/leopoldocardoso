@@ -18,6 +18,10 @@
    
 **- Assinatura e recursos do Azure: https://abrir.link/e1584**
 
+**- Principais cargas de trabalho do Azure: https://abrir.link/yeK3j**
+
+**- O que são tags e qual sua importância no Microsoft Azure: https://abrir.link/74yo9**
+
 
   
   ##
