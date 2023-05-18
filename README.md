@@ -15,6 +15,7 @@
 **- Gitlab: https://gitlab.com/LeopoldoCardoso**
 
 **- Artigos de Azure:**
+
    **- Assinatura e recursos do Azure: https://abrir.link/e1584**
 
 
