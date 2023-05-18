@@ -8,11 +8,16 @@
 
 **- Conhecimentos em Ansible, Docker e Kubernetes**
 
-**- Estudando infra estrutura como código (Terraform)** 
+**- Estudante de infra estrutura como código (Terraform)** 
 
 **- Linkedin: linkedin.com/in/leopoldopcardoso/**
 
 **- Gitlab: https://gitlab.com/LeopoldoCardoso**
+
+**- Artigos de Azure:**
+   **- Assinatura e recursos do Azure: https://abrir.link/e1584**
+
+
   
   ##
 
