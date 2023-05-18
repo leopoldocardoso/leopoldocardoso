@@ -30,7 +30,7 @@ Atualmente atuo como DevOps Jr. e venho intensificando os estudos e conhecimento
 
 Para mais informações segue linkedin:
 
-**- Linkedin: linkedin.com/in/leopoldopcardoso/**
+**- Linkedin: <a href="https://www.linkedin.com/in/leopoldopcardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
   
@@ -44,4 +44,4 @@ Para mais informações segue linkedin:
   
   <div> 
    <a href="https://www.youtube.com/channel/UCoyjHY3F8x62xXyPH-RIWFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leopoldopcardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
