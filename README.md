@@ -6,19 +6,7 @@ Possuo certificações Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Ad
 
 Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
 
-**- DevOps Jr.**
-
-**- Estudante de Kubernetes**
-
-**- Estudante da cultura DevOps**
-
-**- Conhecimentos em Ansible, Docker e Kubernetes**
-
-**- Estudante de infra estrutura como código (Terraform)** 
-
-**- Linkedin: linkedin.com/in/leopoldopcardoso/**
-
-**- Gitlab: https://gitlab.com/LeopoldoCardoso**
+Abaixo deixo alguns artigos referente sobre Microsoft Azure
 
 ### Artigos ###
    
@@ -27,6 +15,24 @@ Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinam
 **- Principais cargas de trabalho do Azure: https://abrir.link/yeK3j**
 
 **- O que são tags e qual sua importância no Microsoft Azure: https://abrir.link/74yo9**
+
+Atualmente atuo como DevOps Jr. e venho intensificando os estudos e conhecimento na seguintes tecnologias:
+
+**- Ansible**
+
+**- AWS**
+
+**- Helm Chart**
+
+**- Infraestrutura como código (Terraform)** 
+
+**- Kubernetes**
+
+Para mais informações segue linkedin:
+
+**- Linkedin: linkedin.com/in/leopoldopcardoso/**
+
+**- Gitlab: https://gitlab.com/LeopoldoCardoso**
 
 
   
