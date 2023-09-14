@@ -2,7 +2,7 @@
 
 Pós Graduado em Redes de Computadores, Graduado em Sistemas de Informação.
 
-Possuo certificações Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Administrator Associate (AZ-104) e Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900).
+Possuo certificações Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Administrator Associate (AZ-104) e Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900) além de Certificação AWS Cloud Practitioner.
 
 Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
 
@@ -17,8 +17,6 @@ Abaixo deixo alguns artigos sobre Microsoft Azure
 **- O que são tags e qual sua importância no Microsoft Azure: https://abrir.link/74yo9**
 
 Atualmente atuo como DevOps Jr. e venho intensificando os estudos e conhecimento na seguintes tecnologias:
-
-**- Ansible**
 
 **- AWS**
 
