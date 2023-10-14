@@ -39,9 +39,6 @@ Para mais informações segue linkedin: https://www.linkedin.com/in/leopoldopcar
 
   
   ##
-
-<div align="center">
-  <a href="https://github.com/leopoldocardoso">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leopoldocardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldocardoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
