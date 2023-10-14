@@ -35,7 +35,8 @@ Atualmente atuo como DevOps Jr. e venho intensificando os estudos e conhecimento
 
 Para mais informações segue linkedin: https://www.linkedin.com/in/leopoldopcardoso
 
-
+<div align="center">
+  <a href="https://github.com/leopoldocardoso">
 
   
   ##
