@@ -6,10 +6,12 @@ Possuo as seguintes certificações Microsoft:
  - Azure Fundamentals (AZ-900)
  -  Microsoft Azure Administrator Associate (AZ-104)
  -  Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900)
- -  Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft.
+ -  Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft
 
-Possuo Certificação AWS:
-- Cloud Practitioner.
+Possuo Certificações AWS:
+- AWS Cloud Practitioner
+- AWS Solutions Architect
+  
 
 
 
