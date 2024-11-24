@@ -27,7 +27,7 @@ Abaixo deixo alguns artigos sobre Microsoft Azure
 
 **- O que são tags e qual sua importância no Microsoft Azure: https://abrir.link/74yo9**
 
-Atualmente atuo como DevOps Jr. e venho intensificando os estudos e conhecimento na seguintes tecnologias:
+Estudos e conhecimento nas seguintes tecnologias:
 
 **- AWS**
 
