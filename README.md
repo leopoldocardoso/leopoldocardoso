@@ -18,7 +18,6 @@ AWS:
 
 
 
-Abaixo deixo alguns artigos sobre Microsoft Azure
 
 ### Artigos ###
    
