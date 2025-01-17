@@ -3,6 +3,7 @@
 Pós Graduado em Redes de Computadores, Graduado em Sistemas de Informação.
 
 Possuo as seguintes certificações:
+
 Microsoft:
  - Azure Fundamentals (AZ-900)
  -  Microsoft Azure Administrator Associate (AZ-104)
