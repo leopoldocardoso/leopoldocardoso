@@ -26,6 +26,7 @@ AWS:
 **- Principais cargas de trabalho do Azure: https://abrir.link/yeK3j**
 
 **- O que são tags e qual sua importância no Microsoft Azure: https://abrir.link/74yo9**
+
 **- Criando recursos no Azure com Terraform: https://abrir.link/mjWwN**
 
 Estudos e conhecimento nas seguintes tecnologias:
