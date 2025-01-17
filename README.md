@@ -29,6 +29,7 @@ AWS:
 
 **- Criando recursos no Azure com Terraform: https://abrir.link/mjWwN**
 
+
 Estudos e conhecimento nas seguintes tecnologias:
 
 **- AWS**
