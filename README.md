@@ -9,7 +9,6 @@ Microsoft:
  -  Microsoft Azure Administrator Associate (AZ-104)
  -  Microsoft Azure Solutions Architect Expert (AZ-305)
  -  Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900)
- -  Microsoft Certified Trainer (MCT) - Profissional preparado para realizar treinamento técnico da Microsoft
 
 AWS:
 - AWS Cloud Practitioner
