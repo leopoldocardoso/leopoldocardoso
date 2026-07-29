@@ -2,7 +2,7 @@
 
 Pós Graduado em Redes de Computadores, Graduado em Sistemas de Informação.
 
-Atualmente atuo no time de Engenharia e Operação Cloud no Bradesco Seguros exercendo a função de 
+Atualmente atuo no time de Engenharia e Operação Cloud na Bradesco Seguros exercendo a função de 
 desenvolvedor Terraform pela ACT Digital.
 
 Possuo as seguintes certificações:
