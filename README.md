@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Engineer · Terraform · Kubernetes</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leopoldopcardoso">
+  <a href="https://www.linkedin.com/in/leopoldopeixotocardoso/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Maceió_·_AL_·_🇧🇷-1E2327?style=for-the-badge" alt="Maceió, AL"/>
