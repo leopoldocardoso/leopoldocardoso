@@ -55,13 +55,6 @@ Bacharel em Sistemas de Informação, pós-graduado em Redes de Computadores.
 - [O que são tags e qual sua importância no Microsoft Azure](https://www.linkedin.com/pulse/o-que-s%C3%A3o-tags-e-qual-sua-import%C3%A2ncia-microsoft-azure-cardoso/)
 - [Criando recursos no Azure com Terraform](https://www.linkedin.com/pulse/criando-recurso-azure-com-terraform-leopoldo-peixoto-cardoso-tpqkf/)
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leopoldocardoso&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldocardoso&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
 ### 📫 Contato
 
 <a href="https://www.linkedin.com/in/leopoldopcardoso">
